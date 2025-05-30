@@ -1,2 +1,2 @@
 # AutoCliker-CLI
-Autocliker CLI com 
+Autocliker CLI  
